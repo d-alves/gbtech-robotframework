@@ -1,6 +1,6 @@
 ## gbtech-robotframework
 
-Para este projeto, foi utilizado para os testes o site https://www.empregos.com.br/. Foram desenvolvidos 16 casos de teste, sendo que 1 deles valida sucesso, e o restante valida cenários de falha.
+Para este projeto, foi utilizado o site https://www.empregos.com.br/ para realização dos testes. Foram desenvolvidos 16 casos de teste, sendo que 1 deles valida sucesso, e o restante valida cenários de falha.
 
 No arquivo report.html é possível verificar o resultado da última execução realizada, em que 15 casos de teste passaram e um apresentou erro. 
 O cenário que apresentou o erro consiste de uma validação de senha, em que o sistema informa que a senha deve conter entre 5 e 15 caracteres, mas que está permitindo 16 caracteres no campo.
